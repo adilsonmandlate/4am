@@ -1,0 +1,21 @@
+{
+    "name": "4am",
+    "displayName": "4am",
+    "description": "theme for those who are up by 4",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.51.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "4am",
+                "uiTheme": "vs-dark",
+                "path": "./themes/4am-color-theme.json"
+            }
+        ]
+    }
+}
