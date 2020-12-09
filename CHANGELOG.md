@@ -1,9 +1,10 @@
 # Change Log
 
-All notable changes to the "4am" extension will be documented in this file.
+## 0.0.2
 
-Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
+- Updated json color scheme
+- Fix visibility at sidebar
 
-## [Unreleased]
+## 0.0.1
 
 - Initial release
