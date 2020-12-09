@@ -1,6 +1,7 @@
 {
     "name": "4am",
     "displayName": "4am",
+    "publisher": "AdilsonMandlate",
     "description": "theme for those who are up by 4",
     "version": "0.0.1",
     "engines": {
@@ -9,6 +10,7 @@
     "categories": [
         "Themes"
     ],
+    "repository": "https://github.com/adilsonmandlate/4am",
     "contributes": {
         "themes": [
             {

@@ -2,7 +2,7 @@
 
 My first VS Code Theme ever. Still on early versions, updates are comming soon.
 
-# Installation
+## Installation
 
 1.  Install [Visual Studio Code](https://code.visualstudio.com/)
 2.  Launch Visual Studio Code
