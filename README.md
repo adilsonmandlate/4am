@@ -2,6 +2,11 @@
 
 My first VS Code Theme ever. Still on early versions, updates are comming soon.
 
+![vue](vue-sample.png)
+![react](react-sample.png)
+![javascript](js-sample.png)
+![css](css-sample.png)
+
 ## Installation
 
 1.  Install [Visual Studio Code](https://code.visualstudio.com/)
