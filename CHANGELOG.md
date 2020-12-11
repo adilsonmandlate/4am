@@ -1,5 +1,10 @@
 # Change Log
 
+## 0.1.0
+
+- Change colors of dialogs
+- Update code colors javascript
+
 ## 0.0.2
 
 - Updated json color scheme
