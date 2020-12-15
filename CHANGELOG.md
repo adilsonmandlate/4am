@@ -1,5 +1,9 @@
 # Change Log
 
+## 0.2.1
+
+- Update Readme, updating preview image and the initial description
+
 ## 0.2.0
 
 - Fix editor colors
