@@ -120,6 +120,7 @@
 			"name": "Comment",
 			"scope": [
 				"comment",
+				"string.comment",
 				"punctuation.definition.comment"
 			],
 			"settings": {
