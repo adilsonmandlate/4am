@@ -1,11 +1,8 @@
 # 4 A.M. 🌌
 
-My first VS Code Theme ever. Still on early versions, updates are comming soon.
+For those who like to spend nights coding. This theme is easy for the eyes, with a cold temperature color scheme.
 
-![vue](vue-sample.png)
-![react](react-sample.png)
-![javascript](js-sample.png)
-![css](css-sample.png)
+![javascript](https://user-images.githubusercontent.com/4643304/102214561-22f55800-3ee1-11eb-9e7f-c0779f190c36.png)
 
 ## Installation
 
