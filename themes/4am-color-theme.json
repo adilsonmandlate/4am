@@ -10,6 +10,7 @@
 		"editor.lineHighlightBorder": "#021629",
 		"editor.lineHighlightBackground": "#021629",
 		"editor.wordHighlightBackground": "#32485e",
+		"editor.findMatchHighlightBackground": "#32485e",
 		
 		"activityBar.background": "#011222",
 		"activityBarBadge.background": "#021b33",
@@ -562,7 +563,7 @@
 				"punctuation.definition.list_item.markdown"
 			],
 			"settings": {
-				"foreground": "#EEFFFF"
+				"foreground": "#fff"
 			}
 		},
 		{
@@ -601,7 +602,7 @@
 			],
 			"settings": {
 				"fontStyle": "italic",
-				"foreground": "#f07178"
+				"foreground": "#e95678"
 			}
 		},
 		{
@@ -637,7 +638,7 @@
 			],
 			"settings": {
 				"fontStyle": "underline",
-				"foreground": "#F78C6C"
+				"foreground": "#fff"
 			}
 		},
 		{
