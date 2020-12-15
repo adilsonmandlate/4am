@@ -2,8 +2,8 @@
     "name": "4am",
     "displayName": "4am",
     "publisher": "AdilsonMandlate",
-    "description": "theme for those who are up by 4",
-    "version": "0.1.0",
+    "description": "Theme for those who are up by 4",
+    "version": "0.1.1",
     "engines": {
         "vscode": "^1.51.0"
     },

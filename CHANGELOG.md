@@ -2,6 +2,11 @@
 
 ## 0.1.0
 
+- Change tab display
+- Update colors javascript code
+
+## 0.1.0
+
 - Change colors of dialogs
 - Update code colors javascript
 
