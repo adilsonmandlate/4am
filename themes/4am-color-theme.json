@@ -55,10 +55,17 @@
 		"inputValidation.errorBorder": "#c0392b",
 
 		"editorGroupHeader.tabsBackground": "#011222",
-		"tab.activeBackground": "#021b33",
+		"tab.activeBackground": "#011222",
 		"tab.inactiveBackground": "#011222",
 		"tab.border": "#01101f",
+		"tab.activeBorderTop": "#fff",
 		"tab.inactiveForeground": "#32485e",
+
+		"breadcrumb.foreground": "#32485e",
+		"breadcrumb.focusForeground": "#fff",
+		"breadcrumb.activeSelectionForeground": "#fff",
+
+		"gitDecoration.ignoredResourceForeground": "#32485e",
 
 		"badge.background": "#052747",
 		"badge.foreground": "#fff",
@@ -204,7 +211,7 @@
 				"meta.block variable.other"
 			],
 			"settings": {
-				"foreground": "#f0932b"
+				"foreground": "#1abc9c"
 			}
 		},
 		{
@@ -246,14 +253,21 @@
 				"meta.group.braces.curly constant.other.object.key.js string.unquoted.label.js"
 			],
 			"settings": {
-				"foreground": "#22a6b3"
+				"foreground": "#1abc9c"
 			}
+		},
+		{
+			"name": "Class",
+			"scope": [
+				"entity.name",
+			],
+			"settings": {
+				"foreground": "#fff",
+			}	
 		},
 		{
 			"name": "Class, Support",
 			"scope": [
-				"entity.name",
-				"support.type",
 				"support.class",
 				"support.orther.namespace.use.php",
 				"meta.use.php",
@@ -262,9 +276,10 @@
 				"support.type.sys-types"
 			],
 			"settings": {
-				"foreground": "#27ae60"
+				"foreground": "#1abc9c"
 			}
 		},
+		
 		{
 			"name": "Entity Types",
 			"scope": [
