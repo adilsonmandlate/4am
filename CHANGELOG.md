@@ -1,6 +1,11 @@
 # Change Log
 
-## 0.1.0
+## 0.2.0
+
+- Fix editor colors
+- Update CSS colors
+
+## 0.1.1
 
 - Change tab display
 - Update colors javascript code
