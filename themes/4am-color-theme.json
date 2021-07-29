@@ -282,7 +282,7 @@
 			],
 			"settings": {
 				"foreground": "#fff",
-			}	
+			}
 		},
 		{
 			"name": "Class, Support",
@@ -295,7 +295,7 @@
 				"support.type.sys-types"
 			],
 			"settings": {
-				"foreground": "#1abc9c"
+				"foreground": "#ef6306"
 			}
 		},
 		
@@ -369,7 +369,7 @@
 				"entity.other.attribute-name"
 			],
 			"settings": {
-				"foreground": "#2980b9"
+				"foreground": "#e95678"
 			}
 		},
 		{
