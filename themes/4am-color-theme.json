@@ -140,7 +140,7 @@
 				"string constant.other.placeholder"
 			],
 			"settings": {
-				"foreground": "#16a085"
+				"foreground": "#ef6306"
 			}
 		},
 		{
@@ -214,7 +214,7 @@
 				"keyword.other.special-method"
 			],
 			"settings": {
-				"foreground": "#1abc9c"
+				"foreground": "#ef6306"
 			}
 		},
 		{
@@ -272,7 +272,7 @@
 				"meta.group.braces.curly constant.other.object.key.js string.unquoted.label.js"
 			],
 			"settings": {
-				"foreground": "#1abc9c"
+				"foreground": "#ef6306"
 			}
 		},
 		{
