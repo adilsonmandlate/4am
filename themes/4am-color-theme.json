@@ -2,6 +2,10 @@
 	"name": "4am",
 	"type": "dark",
 	"colors": {
+		"window.activeBorder": "#011222",
+		"titleBar.activeBackground": "#011222",
+		"titleBar.inactiveBackground": "#2d3436",
+		"titleBar.activeForeground": "#fff",
 		"editor.background": "#011222",
 		"editor.foreground": "#fff",
 		"editorGroup.border": "#021629",
