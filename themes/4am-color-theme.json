@@ -68,7 +68,7 @@
 		"tab.border": "#011222",
 		"tab.activeBorderTop": "#fff",
 		"tab.inactiveForeground": "#32485e",
-
+		"tab.hoverForeground": "#fff",
 		"breadcrumb.foreground": "#32485e",
 		"breadcrumb.focusForeground": "#fff",
 		"breadcrumb.activeSelectionForeground": "#fff",
