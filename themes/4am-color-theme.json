@@ -596,7 +596,8 @@
 				"markup.heading.markdown punctuation.definition.heading.markdown"
 			],
 			"settings": {
-				"foreground": "#16a085"
+				"foreground": "#16a085",
+				"fontStyle": "bold"
 			}
 		},
 		{
@@ -631,7 +632,7 @@
 				"markup.quote markup.bold string"
 			],
 			"settings": {
-				"fontStyle": "bold",
+				"fontStyle": "italic bold",
 				"foreground": "#16a085"
 			}
 		},
