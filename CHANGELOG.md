@@ -1,5 +1,13 @@
 # Change Log
 
+## 0.2.3
+
+- Change tag colors
+- Change function colors
+- Change title bar colors
+- Update hover tab styles
+- Update markdown italic-bold definitions
+
 ## 0.2.1
 
 - Update Readme, updating preview image and the initial description
@@ -21,8 +29,8 @@
 
 ## 0.0.2
 
-- Updated json color scheme
-- Fix visibility at sidebar
+- Updated JSON color scheme
+- Fix visibility at the sidebar
 
 ## 0.0.1
 
