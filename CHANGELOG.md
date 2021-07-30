@@ -1,5 +1,9 @@
 # Change Log
 
+## 0.2.4
+
+- Adjusted function and Class bright colors
+
 ## 0.2.3
 
 - Change tag colors

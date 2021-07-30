@@ -1,23 +1,23 @@
 {
-    "name": "4am",
-    "displayName": "4am",
-    "publisher": "AdilsonMandlate",
-    "description": "Theme for those who are up by 4",
-    "version": "0.2.3",
-    "engines": {
-        "vscode": "^1.51.0"
-    },
-    "categories": [
-        "Themes"
-    ],
-    "repository": "https://github.com/adilsonmandlate/4am",
-    "contributes": {
-        "themes": [
-            {
-                "label": "4am",
-                "uiTheme": "vs-dark",
-                "path": "./themes/4am-color-theme.json"
-            }
-        ]
-    }
+  "name": "4am",
+  "displayName": "4am",
+  "publisher": "AdilsonMandlate",
+  "description": "Theme for those who are up by 4",
+  "version": "0.2.4",
+  "engines": {
+    "vscode": "^1.51.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "repository": "https://github.com/adilsonmandlate/4am",
+  "contributes": {
+    "themes": [
+      {
+        "label": "4am",
+        "uiTheme": "vs-dark",
+        "path": "./themes/4am-color-theme.json"
+      }
+    ]
+  }
 }
